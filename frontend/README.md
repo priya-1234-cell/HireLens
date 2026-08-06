@@ -1,16 +1,55 @@
-# React + Vite
+# 🚀 HireLens
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HireLens is an AI-powered career guidance platform that helps students discover suitable career paths, identify skill gaps, and become placement-ready.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- AI-powered career assessment
+- Personalized career recommendations
+- Interactive React-based user interface
+- Responsive modern design
+- Dynamic recommendations based on degree and CGPA
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- JavaScript
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+HireLens/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── README.md
+```
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/priya-1234-cell/HireLens.git
+cd HireLens/frontend
+npm install
+npm run dev
+```
+
+## 🔮 Future Enhancements
+
+- Multi-step assessment wizard
+- Resume analyzer
+- AI career recommendation engine
+- Skill gap analysis
+- FastAPI backend
+- User authentication
+- Dashboard
+
+## 👩‍💻 Author
+
+**Priyadarshini E.A**
